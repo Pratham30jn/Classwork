@@ -4,6 +4,7 @@ public class OverLoading {
 	
 	public static void main(String[] args) {
 		
+		
 		User user1=new User("Pratham", 10);
 		user1.emailId="prathamjain7789@gmail.com";
 		User user2=new User("sam", 100);
